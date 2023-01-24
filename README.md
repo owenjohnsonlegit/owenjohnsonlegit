@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Owen Johnson
 - 👀 I’m interested in snowboarding, Apex Legends, and anything tech related
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning advanced Javascript with frameworks
 - 💞️ I’m looking to collaborate on any Btech project that I am assigned
 - 📫 How to reach me Owenjohnsonlegit@gmail.com
 
