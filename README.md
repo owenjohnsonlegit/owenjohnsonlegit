@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Owen Johnson
-- 👀 I’m interested in snowboarding, Apex Legends, and anything tech related
-- 🌱 I’m currently learning advanced Javascript with frameworks
-- 💞️ I’m looking to collaborate on any Btech project that I am assigned
+- 👀 I’m interested in entrepreneurship, traveling, and anything tech related.
+- 🌱 I’m currently learning Python for back-end experience
+- 💞️ I’m looking for my first job as a front-end web developer
 - 📫 How to reach me Owenjohnsonlegit@gmail.com
 
 <!---
