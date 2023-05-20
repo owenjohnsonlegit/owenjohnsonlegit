@@ -33,9 +33,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis facilisi
 
 ### 📊 Stats
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenjohnsonlegit&show_icons=true&theme=transparent)
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenjohnsonlegit&show_icons=true&theme=transparent&count_private=true&hide=issues,contribs)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=owenjohnsonlegit&theme=gruvbox&border_radius=4.5) -->
 
 #
 
