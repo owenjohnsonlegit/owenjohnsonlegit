@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis facilisi
 
 ### 📊 Stats
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenjohnsonlegit&show_icons=true&theme=transparent&count_private=true&hide=issues,contribs)
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenjohnsonlegit&show_icons=true&theme=transparent&count_private=true&hide=issues,contribs&text_color=000000)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=owenjohnsonlegit&theme=gruvbox&border_radius=4.5) -->
 
@@ -41,4 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis facilisi
 
 <details>
  <summary><h3>👨‍💻 Owen's Coding Journey</h3></summary>
-   I started my coding journey as a... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis facilisis lorem, quis facilisis odio lacinia vel. Nulla velit massa, viverra a tortor in, pharetra tempus erat. Pellentesque vulputate augue lacus, sagittis malesuada ligula semper ut. Quisque sed ipsum vel risus bibendum congue a quis dui. Aenean quam dui, aliquet quis elementum at, viverra in nisi. Proin vel ultricies erat. Sed vitae auctor nisl, a eleifend mauris. Sed ex leo, consectetur non lacus quis, condimentum pellentesque massa. Sed at ornare purus. Aliquam vel dignissim nulla. Vestibulum cursus vulputate nulla at blandit.
+   I embarked on my coding journey at the age of 14, initially working with Wordpress. Driven by my fascination with technology and computers, I spent my after-school hours either exploring Unity game tutorials or managing my Xbox games-focused Wordpress blog. Intrigued by marketing and online income opportunities, I ventured into creating a Wordpress website where I discussed new Xbox games and experimented with incorporating ads to generate revenue. Although I aspired to make significant profits, my age posed a limitation as linking a bank account required individuals over 18 years old. Additionally, I pursued my passion for robotics and Raspberry Pi projects, successfully developing a rudimentary "security system" utilizing a Raspberry Pi and motion sensor.
+ <hr>
+    To further enhance my skills, my parents enrolled me in a Btech coding summer camp, where I gained foundational knowledge in HTML, CSS, and JavaScript. This experience not only sparked my interest but also provided me with practical insights into computer science as it applies to real-world job scenarios. Motivated by my newfound curiosity, I pursued higher education after high school, enrolling in Bridgerland Technical College. There, I obtained a certificate in Web and Mobile Development, expanding my knowledge and refining my skills in these areas.
