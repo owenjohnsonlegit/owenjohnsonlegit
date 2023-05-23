@@ -25,7 +25,7 @@ I am a passionate web developer who embarked on my coding journey at the age of 
 ### 🔋 Latest Projects
 
 <!-- BEGIN Projects-CARDS -->
-<a href="http://roadtripcalculator.com" target="_blank">RoadTripCalculator.com</a>
+<a href="http://roadtripcalculator.com">RoadTripCalculator.com</a>
 <!-- END Project-CARDS -->
 
 #
