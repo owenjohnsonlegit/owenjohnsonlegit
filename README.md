@@ -2,7 +2,7 @@
 
 **`Digital Architect (Web Designer/Developer)`**
 
-I am a passionate coder who embarked on my coding journey at the age of 14, delving into Wordpress, game development, and online marketing. Over the years, I have built a strong foundation in front-end technologies, including frameworks like React, complemented by a comprehensive understanding of databases, PHP, and MYSQL. Furthermore, my Web and Mobile Development certificate from Bridgerland Technical College has equipped me with the skills and knowledge to confidently navigate real-world coding challenges. I am eager to bring my expertise and contribute to the success of your team.
+I am a passionate web developer who embarked on my coding journey at the age of 14, delving into Wordpress, game development, and online marketing. Over the years, I have built a strong foundation in front-end technologies, including frameworks like React, complemented by a comprehensive understanding of databases, PHP, and MYSQL. Furthermore, my Web and Mobile Development certificate from Bridgerland Technical College has equipped me with the skills and knowledge to confidently navigate real-world coding challenges. I am eager to bring my expertise and contribute to the success of your team.
 
 ---
 
