@@ -25,8 +25,7 @@ I am a passionate coder who embarked on my coding journey at the age of 14, delv
 ### 🔋 Latest Projects
 
 <!-- BEGIN Projects-CARDS -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc venenatis facilisis lorem, quis facilisis odio lacinia vel. Nulla velit massa, viverra a tortor in, pharetra tempus erat. Pellentesque vulputate augue lacus, sagittis malesuada ligula semper ut. Quisque sed ipsum vel risus bibendum congue a quis dui. Aenean quam dui, aliquet quis elementum at, viverra in nisi.
-
+<a href="http://roadtripcalculator.com" target="_blank">RoadTripCalculator.com</a>
 <!-- END Project-CARDS -->
 
 #
