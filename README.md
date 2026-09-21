@@ -1,8 +1,33 @@
 # 🏋🏼‍♂️ Owen Johnson
 
-**`Digital Architect (Web Designer/Developer)`**
+**`IT & Technology Professional | Cybersecurity • Systems • Python • SQL`**
 
-I am a passionate web developer who embarked on my coding journey at the age of 14, delving into Wordpress, game development, and online marketing. Over the years, I have built a strong foundation in front-end technologies, including frameworks like React, complemented by a comprehensive understanding of databases, PHP, and MYSQL. Furthermore, my Web and Mobile Development certificate from Bridgerland Technical College has equipped me with the skills and knowledge to confidently navigate real-world coding challenges. I am eager to bring my expertise and contribute to the success of your team.
+Hi, I’m Owen 👋
+
+I’m an IT and technology professional with a B.S. in Technology Systems (Cybersecurity) from Utah State University, where I graduated Magna Cum Laude with a 3.8 GPA.
+
+My background spans IT support, systems administration, cybersecurity, databases, and software development. I’ve supported enterprise users in a professional IT environment and have hands-on experience with Windows systems, Active Directory, endpoint management, troubleshooting, hardware, networking, and security tools.
+
+I also have a background in web and software development through my Web & Mobile Development certificate from Bridgerland Technical College, with experience using Python, SQL, PHP, MySQL, JavaScript, and web technologies.
+
+🔧 Areas I’m Working On
+
+* Python programming and automation
+* SQL and database systems
+* IT infrastructure and systems administration
+* Networking and cybersecurity
+* Technical problem solving
+
+🎓 Education & Certifications
+
+* B.S. Technology Systems — Cybersecurity | Utah State University
+* Web & Mobile Development Certificate | Bridgerland Technical College
+* CompTIA Security+
+* CompTIA A+
+
+🚀 Current Focus
+
+I’m continuing to strengthen my Python, SQL, and systems knowledge while building practical projects that solve real-world technical problems.
 
 ---
 
@@ -40,6 +65,13 @@ I am a passionate web developer who embarked on my coding journey at the age of 
 
 <details>
  <summary><h3>👨‍💻 Owen's Coding Journey</h3></summary>
-   I embarked on my coding journey at the age of 14, initially working with Wordpress. Driven by my fascination with technology and computers, I spent my after-school hours either exploring Unity game tutorials or managing my Xbox games-focused Wordpress blog. Intrigued by marketing and online income opportunities, I ventured into creating a Wordpress website where I discussed new Xbox games and experimented with incorporating ads to generate revenue. Although I aspired to make significant profits, my age posed a limitation as linking a bank account required individuals over 18 years old. Additionally, I pursued my passion for robotics and Raspberry Pi projects, successfully developing a rudimentary "security system" utilizing a Raspberry Pi and motion sensor.
- <hr>
-    To further enhance my skills, my parents enrolled me in a Btech coding summer camp, where I gained foundational knowledge in HTML, CSS, and JavaScript. This experience not only sparked my interest but also provided me with practical insights into computer science as it applies to real-world job scenarios. Motivated by my newfound curiosity, I pursued higher education after high school, enrolling in Bridgerland Technical College. There, I obtained a certificate in Web and Mobile Development, expanding my knowledge and refining my skills in these areas.
+   My interest in technology started around age 14, when I began experimenting with WordPress and building websites around my interest in Xbox games. That quickly expanded into learning about web development, online marketing, Unity game development, Raspberry Pi projects, and anything else that gave me an excuse to figure out how technology worked. One of my early projects was a simple Raspberry Pi security system using a motion sensor.
+
+I later attended a coding summer camp at Bridgerland Technical College, where I was introduced to HTML, CSS, and JavaScript. That experience eventually led me back to Bridgerland, where I completed a Web & Mobile Development certificate and gained experience with web development, programming, and databases.
+
+My interests continued expanding beyond software development into IT infrastructure, systems, networking, and cybersecurity. I went on to earn a B.S. in Technology Systems with an emphasis in Cybersecurity from Utah State University, graduating Magna Cum Laude with a 3.8 GPA. While completing my degree, I worked professionally in IT supporting enterprise users and systems, gaining hands-on experience with troubleshooting, endpoint management, security tools, and enterprise technology.
+
+Today, I’m continuing to build across the intersection of software, systems, and security. I’m sharpening my Python and SQL skills, expanding my knowledge of infrastructure and networking, and building practical projects that make me a more capable technical problem solver.
+
+What started with a WordPress site and a Raspberry Pi has developed into a much broader interest in understanding, building, securing, and improving technology.
+</details>
