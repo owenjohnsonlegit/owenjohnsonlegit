@@ -49,14 +49,12 @@ I’m continuing to strengthen my Python, SQL, and systems knowledge while build
 ### 🔋 Latest Projects
 
 <!-- BEGIN Projects-CARDS -->
-[RoadTripCalculator.com](http://roadtripcalculator.com)
+## [RoadTripCalculator.com](http://roadtripcalculator.com)
 <!-- END Project-CARDS -->
 
 #
 
 ### 📊 Stats
-
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenjohnsonlegit&show_icons=true&theme=transparent&count_private=true&hide=issues,contribs&text_color=000000)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=owenjohnsonlegit&theme=gruvbox&border_radius=4.5) -->
 
