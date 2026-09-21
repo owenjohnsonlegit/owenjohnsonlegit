@@ -49,7 +49,6 @@ I’m continuing to strengthen my Python, SQL, and systems knowledge while build
 ### 🔋 Latest Projects
 
 <!-- BEGIN Projects-CARDS -->
-## [RoadTripCalculator.com](http://roadtripcalculator.com)
 <!-- END Project-CARDS -->
 
 #
